@@ -5,3 +5,6 @@
 
 # 2.Bubble Sort
 ![Screenshot 2025-01-22 230248](https://github.com/user-attachments/assets/a00976d7-4057-40a1-96f9-8020c09d22fa)
+
+# 3.Iterative Quick Sort
+![alt text](image.png)

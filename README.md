@@ -43,6 +43,11 @@ Sorting algorithms are used to arrange elements in a specific order, typically a
 These algorithms solve various computational problems.
 
 ### 🔹 Find Peak Element in 1D & 2D Array
+- Finding an element which is >= to its neighbours
+- **1D**
+Implemented using algo similar to Binary Search
+- **2D**
+Implemented using algo similar to Binary Search but works in a 2D array
 - **Used in optimization problems** to find local maxima.
 - Efficiently finds peaks in **logarithmic time**.
 

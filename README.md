@@ -203,4 +203,3 @@ This is because, in the worst case, for each vertex, you might try all m colors,
   O(n) for storing the colors of the vertices.
   O(n + e) for storing the graph itself, where e is the number of edges.
   The call stack for the recursive backtracking algorithm also contributes to the space complexity, which would be O(n) in the worst case.
-

@@ -190,9 +190,7 @@ The N-Queens problem involves placing N queens on an N×N chessboard such that n
 
 - **Time Complexity:** Worst-case time complexity for the backtracking solution is O(N!), where N is the number of queens (or the size of the chessboard).
 - **Space Complexity:** The space complexity is O(N) because:
-
 We need to maintain a list of size N to store the positions of the queens (in a 1D array or list, where each index represents a row and the value at the index represents the column of the queen).
-
 Additionally, recursive calls will consume extra space on the call stack, which adds O(N) to the space complexity.
 
 

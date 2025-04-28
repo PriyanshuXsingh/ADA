@@ -14,8 +14,7 @@ Sorting algorithms are used to arrange elements in a specific order, typically a
 | **Iterative Quick Sort**| O(n log n) | O(n log n)  | O(n²)      | O(log n)        |  No  |
 - ### Selection Sort
  :Finds the minimum element and places it at the beginning, repeating the process for the rest of the list.
-  ![image](https://github.com/user-attachments/assets/64d7911b-0d39-4a29-ade0-b05c73b76fa4)
-
+  ![image](./Graphs/selectionsort.png)
 - ### Bubble Sort (`bubblesort.cpp`)
 :Repeatedly swaps adjacent elements if they are in the wrong order.
 ![image](https://github.com/user-attachments/assets/44e10685-e8bb-42ca-a97a-3789231adfcf)

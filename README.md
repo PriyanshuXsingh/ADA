@@ -17,23 +17,23 @@ Sorting algorithms are used to arrange elements in a specific order, typically a
   ![image](./Graphs/selectionsort.png)
 - ### Bubble Sort (`bubblesort.cpp`)
 :Repeatedly swaps adjacent elements if they are in the wrong order.
-![image](https://github.com/user-attachments/assets/44e10685-e8bb-42ca-a97a-3789231adfcf)
+![image](./Graphs/bubblsort.png)
 
 - ### Insertion Sort (`insertionsort.cpp`)
 :Inserts each element at the correct position in the sorted part of the array.
-![image](https://github.com/user-attachments/assets/081bc999-fee3-440d-8022-0c335c6db472)
+![image](./Graphs/insertion_sort.png)
 
 - ### Merge Sort
 :  Uses the divide-and-conquer approach by recursively splitting the array and merging sorted halves.
-![image](https://github.com/user-attachments/assets/7e20aad0-c0c1-4314-b8ac-a440ec14c35d)
+![image](./Graphs/merge_sort.png)
 
  - ### Quick Sort
 :Selects a pivot, partitions the array, and recursively sorts the partitions.
-![image](https://github.com/user-attachments/assets/4490b334-7399-4897-b3ed-cfd714ba2f78)
+![image](./Graphs/quick_sort.png)
 
 - **Iterative Quick Sort** (`iterativequicksort.cpp`)
 :Implements quick sort iteratively using a stack instead of recursion.
-![image](https://github.com/user-attachments/assets/71371d7e-2ef7-4ffb-a7f3-08fbe110196d)
+![image](./Graphs/iterativequicksort.png)
 
   
 ---
@@ -54,7 +54,7 @@ Implemented using algo similar to Binary Search but works in a 2D array
 - A square matrix where the sum of numbers in each row, column, and diagonal is the same.
 - Follows a set pattern in where the numbers increase in a diagonal upwards to the left and goes down one when number is a multiple of the size
 - **Used in cryptography and mathematical puzzles.**
-  ![image](https://github.com/user-attachments/assets/8d84b44a-ef0c-43e9-aa0e-19a352068fb3)
+  ![image](./Graphs/magic.png)
 
 
 ### 🔹 Cosine Similarity (`cosinsimilarity.cpp`)

@@ -99,7 +99,7 @@ Greedy algorithms make locally optimal choices at each step **without considerin
 - The fractional part allows us to pick out items in fraction
 For example if we have a capacity of 10 and the item weights 20 we can take out 10 out the weight instead of leaving that item and going to the next
 - **Used in resource allocation problems.**
--![image](https://github.com/user-attachments/assets/e03ba061-e8e1-448e-814f-3dd2d56b37b0)
+-![image](https://github.com/PriyanshuXsingh/ADA/blob/main/Graphs/Screenshot%202025-04-29%20015651.png)
 
 
 ### 🔹 Dijkstra's Algorithm (`dijkstra.cpp`)
